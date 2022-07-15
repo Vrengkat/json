@@ -6,7 +6,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Bellanaija",
+        "title":"LindaIkejisBlog",
         "provider":"rss",
         "arguments":[
           "https://www.lindaikejisblog.com/feed/"
