@@ -6,10 +6,10 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Bellanaija",
+        "title":"Naija News",
         "provider":"rss",
         "arguments":[
-          "https://www.bellanaija.com/feed/"
+          "https://www.naijanews.com/feed/"
         ]
       }
     ]
